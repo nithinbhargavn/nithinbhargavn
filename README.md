@@ -3,16 +3,13 @@
   <img align="left" alt="Nithin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=nithinbhargavn.nithinbhargavn)
-
 <br />
 
 Hi, I'm Nithin Bhargav, a passionate self-taught back-end developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
 I work mostly with Azure and Microsoft Stack.
 
-
-  <img align="right" alt="GIF" src="https://github.com/nithinbhargavn/nithinbhargavn/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/nithinbhargavn/nithinbhargavn/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@nithin-bhargav](https://www.linkedin.com/in/nithin-bhargav/);
