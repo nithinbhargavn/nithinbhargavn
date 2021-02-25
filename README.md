@@ -14,7 +14,7 @@ I work mostly with Azure and Microsoft Stack.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@nithin-bhargav](https://www.linkedin.com/in/nithin-bhargav/);
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/nithinbhargav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
