@@ -13,7 +13,7 @@ I work mostly with Azure and Microsoft Stack.
   <img align="right" alt="GIF" src="https://github.com/nithinbhargavn/nithinbhargavn/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@nithin-bhargav](https://www.linkedin.com/in/nithin-bhargav/);
+- 📫 How to reach me: [linkedin/nithin-bhargav](https://www.linkedin.com/in/nithin-bhargav/);
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
